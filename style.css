@@ -2,5 +2,12 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-
+}
+.sdfsd {
+    color: red;
+    width: 200px;
+    height: 200px;
+    border-radius: 5%;
+    border: 1px solid pink;
+    border: center;
 }
